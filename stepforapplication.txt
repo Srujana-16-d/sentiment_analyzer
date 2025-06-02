@@ -1,0 +1,6 @@
+#Train the model:
+python sentiment_analyzer.py --train sample_data.csv
+#Run the web application:
+python sentiment_analyzer.py
+#Access the application at:
+http://localhost:8505
